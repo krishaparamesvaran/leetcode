@@ -44,6 +44,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +56,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/krishaparamesvaran/leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +73,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishaparamesvaran/leetcode/tree/main/0169-majority-element/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 <!---LeetCode Topics End-->
