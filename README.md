@@ -48,6 +48,7 @@
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishaparamesvaran/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
