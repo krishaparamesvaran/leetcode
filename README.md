@@ -45,6 +45,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -80,9 +81,14 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/krishaparamesvaran/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
