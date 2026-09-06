@@ -38,6 +38,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/krishaparamesvaran/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/krishaparamesvaran/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -60,6 +62,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0242-valid-anagram](https://github.com/krishaparamesvaran/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Dynamic Programming
