@@ -10,12 +10,14 @@
 | [0169-majority-element](https://github.com/krishaparamesvaran/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/krishaparamesvaran/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/krishaparamesvaran/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/krishaparamesvaran/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0455-assign-cookies](https://github.com/krishaparamesvaran/leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@
 | [0169-majority-element](https://github.com/krishaparamesvaran/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/krishaparamesvaran/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0455-assign-cookies](https://github.com/krishaparamesvaran/leetcode/tree/main/0455-assign-cookies/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +106,12 @@
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/krishaparamesvaran/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0342-power-of-four](https://github.com/krishaparamesvaran/leetcode/tree/main/0342-power-of-four/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/krishaparamesvaran/leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0455-assign-cookies](https://github.com/krishaparamesvaran/leetcode/tree/main/0455-assign-cookies/) | Easy |
 <!---LeetCode Topics End-->
