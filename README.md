@@ -25,6 +25,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0136-single-number/) | Easy |
+| [0231-power-of-two](https://github.com/krishaparamesvaran/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Pigeonhole Principle
@@ -47,6 +48,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0231-power-of-two](https://github.com/krishaparamesvaran/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -94,4 +96,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0231-power-of-two](https://github.com/krishaparamesvaran/leetcode/tree/main/0231-power-of-two/) | Easy |
 <!---LeetCode Topics End-->
