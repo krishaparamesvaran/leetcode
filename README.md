@@ -28,6 +28,7 @@
 | [0231-power-of-two](https://github.com/krishaparamesvaran/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0342-power-of-four](https://github.com/krishaparamesvaran/leetcode/tree/main/0342-power-of-four/) | Easy |
 ## Pigeonhole Principle
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0231-power-of-two](https://github.com/krishaparamesvaran/leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
+| [0342-power-of-four](https://github.com/krishaparamesvaran/leetcode/tree/main/0342-power-of-four/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishaparamesvaran/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
@@ -100,4 +102,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/krishaparamesvaran/leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/krishaparamesvaran/leetcode/tree/main/0342-power-of-four/) | Easy |
 <!---LeetCode Topics End-->
