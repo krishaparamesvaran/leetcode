@@ -12,6 +12,7 @@
 | [0287-find-the-duplicate-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0455-assign-cookies](https://github.com/krishaparamesvaran/leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/krishaparamesvaran/leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/krishaparamesvaran/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@
 | [0169-majority-element](https://github.com/krishaparamesvaran/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/krishaparamesvaran/leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/krishaparamesvaran/leetcode/tree/main/0268-missing-number/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/krishaparamesvaran/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +60,7 @@
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/krishaparamesvaran/leetcode/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/krishaparamesvaran/leetcode/tree/main/1523-count-odd-numbers-in-an-interval-range/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/krishaparamesvaran/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +117,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/krishaparamesvaran/leetcode/tree/main/0455-assign-cookies/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/krishaparamesvaran/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 <!---LeetCode Topics End-->
