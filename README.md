@@ -87,6 +87,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/krishaparamesvaran/leetcode/tree/main/0169-majority-element/) | Easy |
+| [1603-design-parking-system](https://github.com/krishaparamesvaran/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -96,6 +97,7 @@
 | ------- | ------- |
 | [0258-add-digits](https://github.com/krishaparamesvaran/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/krishaparamesvaran/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [1603-design-parking-system](https://github.com/krishaparamesvaran/leetcode/tree/main/1603-design-parking-system/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -121,4 +123,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/krishaparamesvaran/leetcode/tree/main/2965-find-missing-and-repeated-values/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1603-design-parking-system](https://github.com/krishaparamesvaran/leetcode/tree/main/1603-design-parking-system/) | Easy |
 <!---LeetCode Topics End-->
